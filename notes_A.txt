@@ -1,1 +1,1 @@
-Je modifie le fichier pour faire un autre conflit
+Je modifie le fichier pour faire un conflit
